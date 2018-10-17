@@ -1,0 +1,52 @@
+body{
+  background-color: #ccffff;
+}
+
+h1{
+  font-family: cursive;
+  color: #ffccff;
+
+}
+
+h2{
+  font-family: cursive;
+}
+
+h3{
+  font-family: cursive;
+  color: black;
+}
+
+h4{
+  width: 50%;
+  height: 50%;
+  font-family: cursive;
+}
+
+.likes{
+  float: left;
+  width: 50%;
+}
+
+.dislikes{
+  float: right;
+
+
+}
+
+.photo{
+  float: left;
+  width: 50%;
+}
+
+.image{
+  float:left;
+  width: 50%;
+}
+
+.facts{
+  float: left;
+  width:inherit;
+  height: inherit;
+  color: purple;
+}
